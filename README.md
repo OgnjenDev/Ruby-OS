@@ -1,6 +1,3 @@
-
-#Ruby OS is no longer updated!
-
 **Hello everyone I am the Creator of Ruby OS and thank you for the support! I need to move along my life and can't keep Ruby update😭**
 
 

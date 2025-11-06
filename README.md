@@ -2,6 +2,8 @@
 
 **RIP Ruby OS 2024-2025**
 
+**Don't worry you can still download , modify or view the source code 😀 it will just not be updated by me**
+
 
 # 🔴 Ruby OS
 

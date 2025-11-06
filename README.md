@@ -1,3 +1,8 @@
+
+#Ruby OS is no longer updated!
+**Hello everyone I am the Creator of Ruby OS and thank you for the support! I need to move along my life and can't keep Ruby update😭**
+
+
 # 🔴 Ruby OS
 
 **Ruby OS** is a retro-style, Python-based simulated operating system that mimics the behavior of real-world OS environments while running entirely in a terminal or basic graphical interface. It's lightweight, fun, and educational — perfect for learning how operating systems work or building your own software inside a safe, customizable shell.

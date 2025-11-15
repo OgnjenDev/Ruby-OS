@@ -1,8 +1,4 @@
-**Hello everyone I am the Creator of Ruby OS and thank you for the support! I need to move along my life and can't keep Ruby updated😭**
-
-**RIP Ruby OS 2024-2025**
-
-**Don't worry you can still download , modify or view the source code 😀 it will just not be updated by me**
+**Hello everyone I started updating ruby again !**
 
 
 # 🔴 Ruby OS

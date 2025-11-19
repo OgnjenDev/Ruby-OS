@@ -4601,7 +4601,7 @@ ____  _   _ ______   _____  ____
             print("=" * 40)
             print("\n".join(line.center(40) for line in ascii_logo.split("\n")))
             print("\n" + " " * 19 + spin)
-            print(" " * 16 + "1.3.7")
+            print(" " * 16 + "1.3.8")
             print(" " * 8 + "© Copyright - ABC studio")
             time.sleep(0.2)
 

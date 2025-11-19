@@ -4,8 +4,8 @@ import os
 import time
 
 OS_NAME = "Ruby OS"
-OS_VERSION = "1.3.7"
-OS_AUTHOR = "Ognjen Đokić"
+OS_VERSION = "1.3.8"
+OS_AUTHOR = "ABC Studio"
 
 def boot():
     os.system("clear" if os.name != "nt" else "cls")
@@ -14,6 +14,8 @@ def boot():
     time.sleep(0.8)
     print("[ OK ] Loading kernel...")
     time.sleep(0.8)
+    print("Updating system...")
+    time.sleep(5)
     print("[ OK ] Initializing drivers...")
     time.sleep(0.8)
     print("[ OK ] Starting services...")

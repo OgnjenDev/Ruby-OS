@@ -1,4 +1,4 @@
-**Hello everyone I started updating ruby again !**
+**Ruby OS is now being updated by ABC Studio**
 
 
 # 🔴 Ruby OS

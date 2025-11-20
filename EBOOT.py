@@ -17,7 +17,7 @@
 import os
 from datetime import timedelta
 import json
-import time
+import time as time
 import random
 import hashlib
 import requests

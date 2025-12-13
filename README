@@ -2,7 +2,6 @@
 
 **A lightweight, Python-based terminal OS inspired by modern operating systems.**
 
-![Ruby OS Banner](https://via.placeholder.com/800x200.png?text=Ruby+OS)
 
 ---
 
@@ -55,4 +54,5 @@ cd ruby2/src/com/abcstudio/ruby
 Run Ruby OS: python EBOOT.py
 ```
 2. Finish the instalation
+
 3. Your done!

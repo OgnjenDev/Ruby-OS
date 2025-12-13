@@ -1,4 +1,0 @@
-requests
-psutil
-shutil
-bs4

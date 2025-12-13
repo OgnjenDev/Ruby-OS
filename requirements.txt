@@ -1,0 +1,6 @@
+json
+hashlib
+curses
+psutil
+shutil
+webbrowser

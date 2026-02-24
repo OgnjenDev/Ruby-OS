@@ -1,64 +1,34 @@
-# Ruby OS
+# Ruby OS - OS in Python
 
-**A lightweight, Python-based terminal OS inspired by modern operating systems.**
+    ____        __             ____  _____    
+   / __ \__  __/ /_  __  __   / __ \/ ___/    
+  / /_/ / / / / __ \/ / / /  / / / /\__ \     
+ / _, _/ /_/ / /_/ / /_/ /  / /_/ /___/ /     
+/_/ |_|\__,_/_.___/\__, /   \____//____/      
+                  /____/                      
 
+**Made by Ognjen Dev**
 
----
+Update notes:
+- Bug Fixes
+- Faster booting time
+- Faster downloading apps
+- New logo <3
 
-## 🚀 Project Overview
+**Last Update** : 24.2.2026 20:00
 
-Ruby OS is a **full-featured, modular operating system** built entirely in Python, running in the terminal.  
-The goal is to create a “mini OS” with support for:
+# Instalation
 
-- Terminal-based GUI
-- Theme management (light, dark, and multiple colors)
-- Modular applications (Calculator, Game Manager, Web Browser, etc.)
-- File management, folders, and virtual devices
-- Plugin and add-on system
-- Expandable kernel and task manager
+1. Install the zip file from github
+2. Extract the zip
+3. Enter the folder and go to src/com/abcstudio/ruby/
+4. Make sure you have Python installed ( I recomend Python 3.12 or 3.13 bc Python 3.14 isnt stable and cant download stuff Ruby needs in order to work)
+5. Open EBOOT.py
+6. Instalation is simple and just follow the things the instalator says
+7. Enjoy !
 
----
+# License
+Ruby OS is under the MIT license
 
-## Update log
-- Bug fixes
-- Added Doom
-- New main menu
-
-
-## 📁 Project Structure
-
-```
-ruby2/
-├─ src/
-│ └─ com/abcstudio/ruby/
-│ ├─ EBOOT.py # main OS loader
-│ ├─ kernel/ # core OS files
-├─ README.md # project documentation
-└─ requirements.txt/ # requirements for running
-```
-
-
----
-
-## 🎨 Features
-
-- **Modern terminal menu:** OS-style boxed menu with centered text  
-- **Multiple themes:** dark, light, blue, green, red, pink, gold, silver, and more  
-- **File manager & terminal commands:** list, create, read, delete files/folders  
-- **Applications:** Calculator, Game Manager, Web Browser, Task Manager  
-- **Add-ons & Devices:** modular plugin system  
-- **Lightweight & modular:** easily add new applications and functionalities  
-
----
-
-## ⚡ Quick Start
-
-1. Clone the repository:
-```bash
-git clone https://github.com/username/ruby2.git
-cd ruby2/src/com/abcstudio/ruby
-Run Ruby OS: python EBOOT.py
-```
-2. Finish the instalation
-
-3. Your done!
+# Special Thanks
+Special thanks to the Python Community

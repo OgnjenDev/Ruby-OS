@@ -4,7 +4,7 @@ import os
 import time
 
 OS_NAME = "Ruby OS"
-OS_VERSION = "Ruby 2.2"
+OS_VERSION = "Ruby 2.3"
 OS_AUTHOR = "ABC Studio"
 
 def boot():
